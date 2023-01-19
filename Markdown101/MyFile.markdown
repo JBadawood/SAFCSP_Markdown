@@ -72,9 +72,10 @@ __two__
 - B
 - C
 
-1. Makkah
-  - Jeddah
-  - Taif
-  - Rabigh
-2. Riyadh
-3. Madinah
+Regions at KSA
+- Makkah
+  1. Jeddah
+  2. Taif
+  3. Rabigh
+- Riyadh
+- Madinah
