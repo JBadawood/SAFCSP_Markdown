@@ -108,3 +108,20 @@ https://satr.codes/
 ## كتابة رابط URL بدون التحويل إلى الرابط
 
 `https://satr.codes/`
+
+------------------------------------
+
+# مفهوم Subscript & Superscript في Markdown
+## كيفية كتابة Subscript
+`H~2~O` الطريقة غير مدعومة في GitHub
+
+`H<sub>2</sub>O` هي الطريقة البديلة عبر استخدام HTML tags\
+H<sub>2</sub>O
+
+## كيفية كتابة Superscript
+`X^2^` الطريقة غير مدعومة في GitHub
+
+راح نستخدم بدالها HTML tags
+
+`X<sup>2</sup>`  
+X<sup>2</sup>
