@@ -28,3 +28,7 @@ _one_
 
 `__two__`\
 __two__
+
+## كيف أخلي النص Bold & Italic؟
+`***Bold & Italic***`\
+***Bold & Italic***
