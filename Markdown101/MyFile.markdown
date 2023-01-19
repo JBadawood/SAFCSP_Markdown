@@ -43,6 +43,11 @@ __two__
 2. two
 3. three
 
+- نقدر نبدأ برقم آخر غير الواحد
+10. ten
+11. eleven
+12. twelve
+
 ## كتابة List مرقمة بدون تسلسل الأرقام
 1. A
 7. B
@@ -53,9 +58,23 @@ __two__
 - two
 - three
 
+
+> نقدر نستخدم الرموز `+` ,`-` ,`*` في الـ unnumberd list
+
++ واحد
+* إثنان
+- ثلاثة
+
 ## كيفية كتابة sublist
 - A
   - one
   - two
 - B
 - C
+
+1. Makkah
+  - Jeddah
+  - Taif
+  - Rabigh
+2. Riyadh
+3. Madinah
