@@ -9,3 +9,22 @@ Title | Section للمستوى الأول
 =
 Subtitle | Section للمستوى الثاني
 --
+
+------------------------------------
+# مقدمة في Emphasis
+## تنسيق النص باستخدام Italic
+emphasis text *italic*.
+
+*one*
+
+## تنسيق النص باستخدام Bold
+emphasis text **Bold**.
+
+**two**
+
+## طرق أخرى لكتابة Emphasis
+`_one_`\
+_one_
+
+`__two__`\
+__two__
