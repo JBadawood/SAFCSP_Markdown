@@ -49,5 +49,10 @@ Satr URL https://satr.codes/
 [Satr URL](https://satr.codes/)  
 [Markdown101](https://satr.codes/courses/mearAaYiwE/view)  
 [Markdown102](https://satr.codes/courses/yFGAUKQkYM/view)
+## كيفية إضافة عنوان مع link
+كيف نحط وصف أو اسم الموقع بحيث يظهر لمن نأشر على الرابط  
+[Satr URL](https://satr.codes/ "منصة سَطر")  
+[Markdown101](https://satr.codes/courses/mearAaYiwE/view "المستوى الأول للماركداون")  
+[Markdown102](https://satr.codes/courses/yFGAUKQkYM/view "المستوى الثاني للماركداون")
 
 # 3- مقدمة في Images
