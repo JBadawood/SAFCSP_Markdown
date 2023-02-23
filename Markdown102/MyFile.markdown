@@ -31,6 +31,16 @@ ___
 عبر استخدام الرمز `***`
 
 ***
+## التعامل مع Footnotes
+المقصد منها هو أني كيف أقدر أضيف references للمحتوى
+```
+This is the first reference [^1]
+
+[^1]: This is the reference
+```
+This is the first reference [^1]
+
+[^1]: This is the reference
 
 # 2- مقدمة في Links
 # 3- مقدمة في Images
