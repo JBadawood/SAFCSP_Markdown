@@ -1,6 +1,9 @@
-# Markdown | Satr منصة سَطر
+# Markdown | [Satr منصة سَطر](https://satr.codes/)
 تمارين دورة Markdown من منصة سطر  
-https://satr.codes/courses/mearAaYiwE/view
+
+[Markdown101](https://satr.codes/courses/mearAaYiwE/view)  
+[Markdown102](https://satr.codes/courses/yFGAUKQkYM/view)
+
 
 دليل الماركداون  
 https://guide.dawin.io/
