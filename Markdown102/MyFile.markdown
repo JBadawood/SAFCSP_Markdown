@@ -43,4 +43,7 @@ This is the first reference [^1]
 [^1]: This is the reference
 
 # 2- مقدمة في Links
+## إضافة link مع النص
+Satr URL https://satr.codes/
+
 # 3- مقدمة في Images
