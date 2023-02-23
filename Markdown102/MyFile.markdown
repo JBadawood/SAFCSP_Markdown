@@ -60,3 +60,5 @@ Satr URL https://satr.codes/
 **[منصة كودرهَب](https://coderhub.sa/)**  
 
 # 3- مقدمة في Images
+## كيفية إضافة الصور
+![منصة سَطر](https://satr.codes/assets/images/logo.svg)
