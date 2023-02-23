@@ -57,6 +57,6 @@ Satr URL https://satr.codes/
 ## تنسيق link مع النص
 يعني نخلي الرابط يظهر bold أو مائل  
 *[منصة سَطر](https://satr.codes/)*  
-**[منصة كودرهب](https://coderhub.sa/)**  
+**[منصة كودرهَب](https://coderhub.sa/)**  
 
 # 3- مقدمة في Images
