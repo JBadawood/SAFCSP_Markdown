@@ -45,5 +45,9 @@ This is the first reference [^1]
 # 2- مقدمة في Links
 ## إضافة link مع النص
 Satr URL https://satr.codes/
+## إخفاء link داخل النص
+[Satr URL](https://satr.codes/)  
+[Markdown101](https://satr.codes/courses/mearAaYiwE/view)  
+[Markdown102](https://satr.codes/courses/yFGAUKQkYM/view)
 
 # 3- مقدمة في Images
