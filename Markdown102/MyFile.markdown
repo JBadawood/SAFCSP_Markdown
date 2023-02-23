@@ -54,5 +54,9 @@ Satr URL https://satr.codes/
 [Satr URL](https://satr.codes/ "منصة سَطر")  
 [Markdown101](https://satr.codes/courses/mearAaYiwE/view "المستوى الأول للماركداون")  
 [Markdown102](https://satr.codes/courses/yFGAUKQkYM/view "المستوى الثاني للماركداون")
+## تنسيق link مع النص
+يعني نخلي الرابط يظهر bold أو مائل  
+*[منصة سَطر](https://satr.codes/)*  
+**[منصة كودرهب](https://coderhub.sa/)**  
 
 # 3- مقدمة في Images
