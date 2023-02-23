@@ -16,5 +16,21 @@ This is the 2nd paragraph
 This in the 1st paragraph  
 This is the 2nd paragraph
 
+## كيفية إضافة Horizontal Rule
+الطريقة الأولى لإضافة الـ horizontal rule  
+عبر استخدام الرمز `---` ثلاث مرات أو أكثر
+
+---
+
+الطريقة الثانية  
+عبر استخدام الرمز `___`
+
+___
+
+الطريقة الثالثة   
+عبر استخدام الرمز `***`
+
+***
+
 # 2- مقدمة في Links
 # 3- مقدمة في Images
