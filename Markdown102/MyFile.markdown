@@ -62,3 +62,6 @@ Satr URL https://satr.codes/
 # 3- مقدمة في Images
 ## كيفية إضافة الصور
 ![منصة سَطر](https://satr.codes/assets/images/logo.svg)
+## كيفية إضافة رابط للصور
+يعني نقدر نضغط على الصورة عشان تنقلنا لخبر تدشين موقع كودرهَب  
+[![CoderHub | LAUNCH](https://pbs.twimg.com/media/E9u4-QeXsAQaYWL?format=jpg)](https://twitter.com/SAFCSP/status/1430940716121870337)
