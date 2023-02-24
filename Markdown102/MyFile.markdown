@@ -65,3 +65,12 @@ Satr URL https://satr.codes/
 ## كيفية إضافة رابط للصور
 يعني نقدر نضغط على الصورة عشان تنقلنا لخبر تدشين موقع كودرهَب  
 [![CoderHub | LAUNCH](https://pbs.twimg.com/media/E9u4-QeXsAQaYWL?format=jpg)](https://twitter.com/SAFCSP/status/1430940716121870337)
+
+***
+
+# مشاريع تطبيقية  
+## تطبيق خصائص Backtick بداخل نص Markdown
+### كيفية إضافة جزئية Code في سطر نصي
+راح نشوف كيف نكتب نص يتضمن كود  
+`var y`
+> نلاحظ إضافة علامة ` قبل وبعد النص المراد إظهاره بـ style مختلف
